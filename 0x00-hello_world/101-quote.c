@@ -2,7 +2,7 @@
 #include <string.h>
 #include <unistd.h>
 /**
- * main - main entry point
+ * main - main entry
  * Return: 1
  */
 int main(void)
