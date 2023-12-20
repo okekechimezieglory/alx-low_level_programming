@@ -6,7 +6,8 @@
  * Description: You are not allowed to include standard libraries.
  * Return: 0
  */
-int main(void){
-	printf("_putchar\n");
+int main(void)
+{
+	printf ("_putchar\n");
 	return(0);
 }
